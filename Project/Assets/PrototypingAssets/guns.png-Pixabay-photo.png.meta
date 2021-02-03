@@ -1,0 +1,742 @@
+fileFormatVersion: 2
+guid: 9f966b51b25b8314db65b8e425a1062d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3780699330407297430
+    second: guns.png-Pixabay-photo_0
+  - first:
+      213: -4512091865687695259
+    second: guns.png-Pixabay-photo_1
+  - first:
+      213: -8889622807961720688
+    second: guns.png-Pixabay-photo_2
+  - first:
+      213: -4482853934891493187
+    second: guns.png-Pixabay-photo_3
+  - first:
+      213: 1015972435979171649
+    second: guns.png-Pixabay-photo_4
+  - first:
+      213: -7979925465378285628
+    second: guns.png-Pixabay-photo_5
+  - first:
+      213: 7938940392400493670
+    second: guns.png-Pixabay-photo_6
+  - first:
+      213: -205743882335409840
+    second: guns.png-Pixabay-photo_7
+  - first:
+      213: -8795116091705132167
+    second: guns.png-Pixabay-photo_8
+  - first:
+      213: 1205516515550783145
+    second: guns.png-Pixabay-photo_9
+  - first:
+      213: 567703890494577640
+    second: guns.png-Pixabay-photo_10
+  - first:
+      213: -152554843851884083
+    second: guns.png-Pixabay-photo_11
+  - first:
+      213: 4717468951303979627
+    second: guns.png-Pixabay-photo_12
+  - first:
+      213: 2286281529318424317
+    second: guns.png-Pixabay-photo_13
+  - first:
+      213: -7464330993583549205
+    second: guns.png-Pixabay-photo_14
+  - first:
+      213: -4522435244495803164
+    second: guns.png-Pixabay-photo_15
+  - first:
+      213: 1684957725092439826
+    second: guns.png-Pixabay-photo_16
+  - first:
+      213: 2608698989890170655
+    second: guns.png-Pixabay-photo_17
+  - first:
+      213: -5823643377845423486
+    second: guns.png-Pixabay-photo_18
+  - first:
+      213: -7671392335995633679
+    second: guns.png-Pixabay-photo_19
+  - first:
+      213: -314433564947115278
+    second: guns.png-Pixabay-photo_20
+  - first:
+      213: -7312597213245261809
+    second: guns.png-Pixabay-photo_21
+  - first:
+      213: 5136128736214705365
+    second: guns.png-Pixabay-photo_22
+  - first:
+      213: 5191996070506171835
+    second: guns.png-Pixabay-photo_23
+  - first:
+      213: 4661082091001454002
+    second: guns.png-Pixabay-photo_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: guns.png-Pixabay-photo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 238
+        width: 74
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e04807df1488bc0800000000000000
+      internalID: -3780699330407297430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns.png-Pixabay-photo_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 229
+        width: 78
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56061cfaa54d161c0800000000000000
+      internalID: -4512091865687695259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns.png-Pixabay-photo_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 233
+        width: 78
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0982b38c727b1a480800000000000000
+      internalID: -8889622807961720688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns.png-Pixabay-photo_3
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 239
+        width: 75
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db894dee814b9c1c0800000000000000
+      internalID: -4482853934891493187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns.png-Pixabay-photo_4
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 235
+        width: 74
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14770243c85791e00800000000000000
+      internalID: 1015972435979171649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns.png-Pixabay-photo_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 184
+        width: 74
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c79806911c914190800000000000000
+      internalID: -7979925465378285628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns.png-Pixabay-photo_6
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 186
+        width: 77
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c180e7938cc2e60800000000000000
+      internalID: 7938940392400493670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns.png-Pixabay-photo_7
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 187
+        width: 72
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05920b2770d052df0800000000000000
+      internalID: -205743882335409840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns.png-Pixabay-photo_8
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 186
+        width: 77
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97bf79b538871f580800000000000000
+      internalID: -8795116091705132167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns.png-Pixabay-photo_9
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 187
+        width: 74
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6654042eadab010800000000000000
+      internalID: 1205516515550783145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns.png-Pixabay-photo_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 145
+        width: 74
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb598a3ea3e0e700800000000000000
+      internalID: 567703890494577640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns.png-Pixabay-photo_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 141
+        width: 76
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc971738d2402edf0800000000000000
+      internalID: -152554843851884083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns.png-Pixabay-photo_12
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 146
+        width: 74
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6288695401d77140800000000000000
+      internalID: 4717468951303979627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns.png-Pixabay-photo_13
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 142
+        width: 77
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfebf8b00f08abf10800000000000000
+      internalID: 2286281529318424317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns.png-Pixabay-photo_14
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 146
+        width: 74
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be49381528e596890800000000000000
+      internalID: -7464330993583549205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns.png-Pixabay-photo_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 73
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecee142b151d31c0800000000000000
+      internalID: -4522435244495803164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns.png-Pixabay-photo_16
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 76
+        width: 78
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2176fa9af1c226710800000000000000
+      internalID: 1684957725092439826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns.png-Pixabay-photo_17
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 71
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fe25ae8e5f33420800000000000000
+      internalID: 2608698989890170655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns.png-Pixabay-photo_18
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 79
+        width: 85
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282b7fce3334e2fa0800000000000000
+      internalID: -5823643377845423486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns.png-Pixabay-photo_19
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 69
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff7350b05db98590800000000000000
+      internalID: -7671392335995633679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns.png-Pixabay-photo_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 69
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f21edfa658e2abf0800000000000000
+      internalID: -314433564947115278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns.png-Pixabay-photo_21
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 68
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08310f049f648a90800000000000000
+      internalID: -7312597213245261809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns.png-Pixabay-photo_22
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 70
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4e0ca8fd1374740800000000000000
+      internalID: 5136128736214705365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns.png-Pixabay-photo_23
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 0
+        width: 75
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd8eb1faecad0840800000000000000
+      internalID: 5191996070506171835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns.png-Pixabay-photo_24
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 68
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd931f577d7fa040800000000000000
+      internalID: 4661082091001454002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ea9ab02a38ca678439cdca2089dfc87c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

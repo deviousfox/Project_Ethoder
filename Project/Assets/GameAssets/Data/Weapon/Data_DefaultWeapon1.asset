@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dbeb27fe69c4d8d4a96f9094e75690d2, type: 3}
+  m_Name: Data_DefaultWeapon1
+  m_EditorClassIdentifier: 
+  WeaponImage: {fileID: -7979925465378285628, guid: 9f966b51b25b8314db65b8e425a1062d, type: 3}
+  WeaponTarget: {fileID: 21300000, guid: f05933f67edbd4e45beeb41a850e380e, type: 3}
+  WeaponType: 1
+  UseSecondaryAmmo: 0
+  PrimaryDispersion: {x: 5, y: 2.5}
+  PrimaryDamage: 10
+  PrimaryShootCost: 1
+  PrimaryBulletCount: 12
+  RayCastDecal: {fileID: 0}
+  PrimaryObjectShooting: 1
+  PrimaryBulletSpeed: 50
+  PrimaryBulletPrefab: {fileID: 8734084009315424452, guid: 049f65d2d5436f545a70e18e59fb2bc3, type: 3}
+  PrimaryShootSound: {fileID: 0}
+  SecondaryDispersion: {x: 0, y: 0}
+  SecondaryDamage: 5
+  SecondaryShootCost: 1
+  SecondaryBulletCount: 1
+  SecondaryRayCastDecal: {fileID: 0}
+  SecondaryObjectShooting: 0
+  SecondaryBulletSpeed: 0
+  SecondaryBulletPrefab: {fileID: 0}
+  SecondaryShootSound: {fileID: 0}

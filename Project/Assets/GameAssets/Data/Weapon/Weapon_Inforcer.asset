@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dbeb27fe69c4d8d4a96f9094e75690d2, type: 3}
+  m_Name: Weapon_Inforcer
+  m_EditorClassIdentifier: 
+  WeaponImage: {fileID: -3780699330407297430, guid: 9f966b51b25b8314db65b8e425a1062d, type: 3}
+  WeaponTarget: {fileID: 21300000, guid: 942d1e23d678cc141992b2beb2fb5327, type: 3}
+  WeaponType: 2
+  UseSecondaryAmmo: 0
+  PrimaryDispersion: {x: 4, y: 4}
+  PrimaryDamage: 10
+  PrimaryShootCost: 1
+  PrimaryBulletCount: 1
+  RayCastDecal: {fileID: 810344035615067429, guid: c831e29449a2613428370f412025dd44, type: 3}
+  PrimaryObjectShooting: 0
+  PrimaryBulletSpeed: 200
+  PrimaryBulletPrefab: {fileID: 810344035615067429, guid: c831e29449a2613428370f412025dd44, type: 3}
+  PrimaryShootSound: {fileID: 0}
+  SecondaryDispersion: {x: 0, y: 0}
+  SecondaryDamage: 0
+  SecondaryShootCost: 0
+  SecondaryBulletCount: 0
+  SecondaryRayCastDecal: {fileID: 0}
+  SecondaryObjectShooting: 0
+  SecondaryBulletSpeed: 0
+  SecondaryBulletPrefab: {fileID: 0}
+  SecondaryShootSound: {fileID: 0}
